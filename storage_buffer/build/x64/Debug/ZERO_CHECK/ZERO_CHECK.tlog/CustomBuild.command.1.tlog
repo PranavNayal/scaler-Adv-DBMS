@@ -1,0 +1,10 @@
+^C:\USERS\PRANAV NAYAL\ONEDRIVE\DESKTOP\SCALER-ADV-DBMS\STORAGE_BUFFER\BUILD\CMAKEFILES\03AA24C41EF15C8E253F4D8F06322D2E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Pranav Nayal/OneDrive/Desktop/scaler-Adv-DBMS/storage_buffer" "-BC:/Users/Pranav Nayal/OneDrive/Desktop/scaler-Adv-DBMS/storage_buffer/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Pranav Nayal/OneDrive/Desktop/scaler-Adv-DBMS/storage_buffer/build/StorageBuffer.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

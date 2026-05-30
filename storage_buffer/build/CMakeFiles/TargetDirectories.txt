@@ -1,0 +1,3 @@
+C:/Users/Pranav Nayal/OneDrive/Desktop/scaler-Adv-DBMS/storage_buffer/build/CMakeFiles/StorageBuffer.dir
+C:/Users/Pranav Nayal/OneDrive/Desktop/scaler-Adv-DBMS/storage_buffer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Pranav Nayal/OneDrive/Desktop/scaler-Adv-DBMS/storage_buffer/build/CMakeFiles/ZERO_CHECK.dir

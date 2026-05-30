@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Pranav Nayal\OneDrive\Desktop\scaler-Adv-DBMS\storage_buffer\build\CMakeFiles\03aa24c41ef15c8e253f4d8f06322d2e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AACEB273-7306-35AD-AEFD-EA081C26AEA0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

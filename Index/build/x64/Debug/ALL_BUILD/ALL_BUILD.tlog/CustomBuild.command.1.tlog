@@ -1,0 +1,10 @@
+^C:\USERS\PRANAV NAYAL\ONEDRIVE\DESKTOP\SCALER-ADV-DBMS\INDEX\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Pranav Nayal/OneDrive/Desktop/scaler-Adv-DBMS/Index" "-BC:/Users/Pranav Nayal/OneDrive/Desktop/scaler-Adv-DBMS/Index/build" --check-stamp-file "C:/Users/Pranav Nayal/OneDrive/Desktop/scaler-Adv-DBMS/Index/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

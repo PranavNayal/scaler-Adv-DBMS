@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Pranav Nayal\OneDrive\Desktop\scaler-Adv-DBMS\Index\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Pranav Nayal\OneDrive\Desktop\scaler-Adv-DBMS\Index\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2AD08F32-09A0-3DF1-AC2A-48BC733FF365}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
